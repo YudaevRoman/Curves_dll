@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Leere/Desktop/Curves_dll/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Curves_dll.dir\\Curves_dll.cpp.obj -c C:\\Users\\Leere\\Desktop\\Curves_dll\\Curves_dll.cpp",
+  "file": "C:\\Users\\Leere\\Desktop\\Curves_dll\\Curves_dll.cpp",
+  "output": "CMakeFiles\\Curves_dll.dir\\Curves_dll.cpp.obj"
+}
+]
